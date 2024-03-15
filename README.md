@@ -1,4 +1,5 @@
-Hi there, I'm Grace! 👋
+Hi there, I'm Grace! 👋 
+
 👨‍💼 About Me:
 ✨ An aspiring Java Developer ✨<br>
 🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
