@@ -1,6 +1,6 @@
 Hi there, I'm Grace! 👋 
 
-👨‍💼 About Me: <br>
+#👨‍💼 About Me: <br>
 ✨ An aspiring Java Developer ✨<br>
 🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
 💻 I’m currently learning Spring Boot.<br>
@@ -26,7 +26,7 @@ Hi there, I'm Grace! 👋
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
-<!-- # 📊 GitHub Stats: -->
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=websiteyarn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=websiteyarn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=websiteyarn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
