@@ -1,6 +1,6 @@
 Hi there, I'm Grace! 👋 
 
-# 👨‍💼 About Me: <br>
+# 👩🏻‍💼 About Me: <br>
 ✨ An aspiring Java Developer ✨<br>
 🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
 💻 I’m currently learning Spring Boot.<br>
