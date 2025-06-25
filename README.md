@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com/?size=40&duration=3500&color=D2582E&vCenter=true&width=720&height=60&lines=Welcome+to+Grace%27s+Github+Profile
+[!Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&duration=3500&color=D2582E&vCenter=true&width=720&height=60&lines=Welcome+to+Grace%27s+Github+Profile)](https://git.io/typing-svg)
 
 # 👩🏻‍💼 About Me: <br>
 ✨ An aspiring Java Developer ✨<br>
